@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="CppFormatterOtherPage" type="string" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="eddit" targetName="eddit" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d30f5b58-9fb9-4349-89d4-634b2f3b9a74" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="CurrentDebugProfile">
+    <option name="debugProfileId" value="13e78706-1000-4991-b952-cd2da647187e" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="bEWQRPoY" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000002495417" />
+      <entry key="S2" value="1.0039780378523229" />
+      <entry key="S5" value="1.1161525082625223" />
+      <entry key="S10" value="1.4121196572634105" />
+      <entry key="S30" value="2.1247070265847006" />
+      <entry key="S60" value="2.499809682999036" />
+      <entry key="M2" value="2.824152858206581" />
+      <entry key="M5" value="3.324452360794491" />
+      <entry key="M10" value="3.8553811696861717" />
+      <entry key="M15" value="4.236995031382344" />
+      <entry key="M30" value="4.8807211515795785" />
+      <entry key="H1" value="6.073372513090186" />
+      <entry key="H2" value="14.749851515422403" />
+      <entry key="H4" value="46.14923309810739" />
+      <entry key="D1" value="345.1737993207687" />
+      <entry key="W1" value="632.5222391792604" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="3.9365314272025355E-232" />
+      <entry key="S5" value="3.8651879007837794E-93" />
+      <entry key="S10" value="9.984763721778132E-47" />
+      <entry key="S30" value="9.483585582271875E-16" />
+      <entry key="S60" value="5.322522951548254E-8" />
+      <entry key="M2" value="3.9938277884158307E-4" />
+      <entry key="M5" value="0.08448383261168509" />
+      <entry key="M10" value="0.503429098428244" />
+      <entry key="M15" value="0.9127053805017737" />
+      <entry key="M30" value="1.6549850966601265" />
+      <entry key="H1" value="2.264827020999755" />
+      <entry key="H2" value="3.0631472258923376" />
+      <entry key="H4" value="5.2498300275977" />
+      <entry key="D1" value="26.847871253610975" />
+      <entry key="W1" value="42.41597099340446" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.07229301149408046" />
+      <entry key="MS500" value="0.5913155002769652" />
+      <entry key="S2" value="0.8804405795108344" />
+      <entry key="S5" value="1.0595958243906465" />
+      <entry key="S10" value="1.3767118462619028" />
+      <entry key="S30" value="2.1075023378686426" />
+      <entry key="S60" value="2.4898481456310066" />
+      <entry key="M2" value="2.8191237841107037" />
+      <entry key="M5" value="3.40625218326713" />
+      <entry key="M10" value="4.356451457646968" />
+      <entry key="M15" value="5.147457586598959" />
+      <entry key="M30" value="6.533964830710114" />
+      <entry key="H1" value="8.336953378374451" />
+      <entry key="H2" value="17.811538358995932" />
+      <entry key="H4" value="51.39689530420176" />
+      <entry key="D1" value="372.0192022301658" />
+      <entry key="W1" value="674.93762009256" />
+    </decayedShown>
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2026" />
+    <option name="minorVersion" value="2.0.1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3H5FkOfOASSmSprEbgjLNY0HDRn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "CMake Application.eddit.executor": "Run",
+    "CidrDebugProfileConversion": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/shreyk/Downloads/eddit",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="eddit" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eddit" TARGET_NAME="eddit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eddit" RUN_TARGET_NAME="eddit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d30f5b58-9fb9-4349-89d4-634b2f3b9a74" name="Changes" comment="" />
+      <created>1785150169515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785150169515</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+    <isAutomaticBootstrapAfterUpdate value="false" />
+  </component>
+</project>
